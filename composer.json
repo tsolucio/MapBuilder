@@ -1,0 +1,6 @@
+{
+    "require": {
+        "coreBOS": "8.0",
+        "coreBOSTest": "database"
+    }
+}
