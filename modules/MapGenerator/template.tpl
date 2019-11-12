@@ -23,7 +23,7 @@
 						<div class="slds-grid slds-col slds-has-flexi-truncate slds-media--center">
 							<div class="slds-media__body">
 								<h1 class="slds-page-header__title slds-m-right--small slds-truncate slds-align-middle">
-								<span class="uiOutputText">{$MOD.MVCreator}</span>
+								<span class="uiOutputText">{$MOD.MapGenerator}</span>
 								</h1>
 							</div>
 						</div>
