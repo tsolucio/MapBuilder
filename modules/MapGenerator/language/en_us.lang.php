@@ -9,7 +9,7 @@
  ************************************************************************************/
 
 $mod_strings = array(
-	'MVCreator' => 'Map Generator',
+	'MapGenerator' => 'Map Generator',
 	'none' => 'None',
 	'many' => 'Many',
 	'lim' => 'Limit',
@@ -151,9 +151,9 @@ $mod_strings = array(
 	'ClickAdd' => 'Click to add',
 	'Hide' => 'Hide',
 	'Show' => 'Show',
-    'equals'=>'Equals',
-    'not_equals'=>'Not equals',
-    'empty'=>'Empty',
+	'equals'=>'Equals',
+	'not_equals'=>'Not equals',
+	'empty'=>'Empty',
 	'not_empty'=>'Not empty',
 	'startwith'=>'starts with',
 	'endwith'=>'ends with',
@@ -239,8 +239,6 @@ $mod_strings = array(
 	'wsMultipleSelect'=>'Hold CTRL to select multiple fields',
 	'wsOpyionalValue'=>'Write a static Value (Opsional)',
 
-
-
 	'WSValidation'=>'WS Validation',
 	'WSValidationOriginModule'=>'Origin Module',
 	'WSValidationTargetModule'=>'Target Module',
@@ -251,7 +249,6 @@ $mod_strings = array(
 	'WSValidationFields'=>'Fields',
 	'WSValidationRequired'=>'(*) Mandatory Fields',
 	'wsvalidationAdd'=>'Add',
-
 
 	'RpRelatedPanes'=>'RelatedPanes',
 	'RpOriginModule'=>'Origin Module',
@@ -266,7 +263,6 @@ $mod_strings = array(
 	'RprequiredFileds'=>'(*) Mandatory Fields',
 	'RpAddBlock'=>'Add Block',
 	'RpAddPanes'=>'Add Panes',
-	
 
 	'FieldSet'=>'Field Set',
 	'fsModule'=>'Module',
@@ -289,6 +285,5 @@ $mod_strings = array(
 	'map_type_missing'=>'Missing the Type of map',
 	'missing_map_list'=>'Missing the List of Maps',
 	'missing_mapID_queryID'=>'Missing the Id of the Map and also the Id of query history',
-	
 );
 ?>

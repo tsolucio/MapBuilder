@@ -9,7 +9,7 @@
  ************************************************************************************/
 
 $mod_strings = array(
-	'MVCreator' => 'Map Generator',
+	'MapGenerator' => 'Map Generator',
 	'none' => 'None',
 	'many' => 'Many',
 	'lim' => 'Limit',
@@ -151,10 +151,21 @@ $mod_strings = array(
 	'ClickAdd' => 'Click to add',
 	'Hide' => 'Hide',
 	'Show' => 'Show',
-    'equals'=>'Equals',
-    'not_equals'=>'Not equals',
-    'empty'=>'Empty',
-    'not_empty'=>'Not empty',
+	'equals'=>'Equals',
+	'not_equals'=>'Not equals',
+	'empty'=>'Empty',
+	'not_empty'=>'Not empty',
+	'startwith'=>'starts with',
+	'endwith'=>'ends with',
+	'contain'=>'contains',
+	'notcontain'=>'does not contain',
+	'lessthan'=>'less than',
+	'greatthan'=>'greater than',
+	'lessorequal'=>'less or equal',
+	'greatorequal'=>'greater or equal',
+	'before'=>'before',
+	'after'=>'after',
+	'between'=>'between',
 	'DuplicateRecords'=>'Duplicate Records',
 	'RelatedModule'=>'Related Module',
 	'DuplicateDirectRelations'=>'Duplicate Direct Relations',
@@ -228,8 +239,6 @@ $mod_strings = array(
 	'wsMultipleSelect'=>'Hold CTRL to select multiple fields',
 	'wsOpyionalValue'=>'Write a static Value (Opsional)',
 
-
-
 	'WSValidation'=>'WS Validation',
 	'WSValidationOriginModule'=>'Origin Module',
 	'WSValidationTargetModule'=>'Target Module',
@@ -240,7 +249,6 @@ $mod_strings = array(
 	'WSValidationFields'=>'Fields',
 	'WSValidationRequired'=>'(*) Mandatory Fields',
 	'wsvalidationAdd'=>'Add',
-
 
 	'RpRelatedPanes'=>'RelatedPanes',
 	'RpOriginModule'=>'Origin Module',
@@ -255,7 +263,6 @@ $mod_strings = array(
 	'RprequiredFileds'=>'(*) Mandatory Fields',
 	'RpAddBlock'=>'Add Block',
 	'RpAddPanes'=>'Add Panes',
-	
 
 	'FieldSet'=>'Field Set',
 	'fsModule'=>'Module',
@@ -266,6 +273,17 @@ $mod_strings = array(
 	'fsbuttonaddfield'=>'Click to add fields',
 	'fsbuttonmodule'=>'Add Module',
 	'fsbuttonmoduleInfo'=>'Click to add Module',
-	
+
+	'error_check_exceptionLog'=>'Something was wrong check the Exception in log file',
+	'error'=>'An error has occurred',
+	'information'=>'Information!!',
+	'not_map'=>'Not exist any map',
+	'not_exist_a_map_type'=>'Not exists a map with Type',
+	'wrong_action'=>'Something was wrong',
+	'not_exist_type_map_load'=>'Not Exist This Type of Map in Load Map',
+	'check_map_type_try_again'=>'Please check the type of mapping and try again',
+	'map_type_missing'=>'Missing the Type of map',
+	'missing_map_list'=>'Missing the List of Maps',
+	'missing_mapID_queryID'=>'Missing the Id of the Map and also the Id of query history',
 );
 ?>
