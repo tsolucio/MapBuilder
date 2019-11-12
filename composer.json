@@ -1,6 +1,22 @@
 {
-    "require": {
-        "coreBOS": "8.0",
-        "coreBOSTest": "database"
-    }
+	"name": "tsolucio/MapGenerator",
+	"type": "corebos-extension",
+	"properties": {
+		"name": "Map Generator",
+		"description": "A graphical tool to construct business maps",
+		"keywords": ["settings","map","business map"],
+		"homepage": "http://corebos.org/documentation/doku.php?id=en:extensions:extensions:mapgenerator",
+		"version": "1.0",
+		"time": "2019-09-07",
+		"license": "Vizsage",
+		"extra": {
+			"distribution": "Open Source"
+		},
+		"authors": [
+					{
+					"name": "JPL TSolucio, S.L.",
+					"email": "info(at)tsolucio(dot)com"
+					}
+		}
+	}
 }
